@@ -15,3 +15,4 @@ streamlit run dashboard.py
 ```
 
 ## Screenshots
+![image](https://github.com/arethakm/Alpro-A1/assets/100180167/b3e5e844-27df-4ad5-b735-323c88e8aa78)
